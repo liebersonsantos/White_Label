@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "452940332827",
+    "project_id": "white-label-project-5249a",
+    "storage_bucket": "white-label-project-5249a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452940332827:android:76bafde0c2790f8d24ddbe",
+        "android_client_info": {
+          "package_name": "br.com.liebersonsantos.whitelabel.bike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452940332827-t0it43osl1u6dobit0jp5j3genp9561h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcMgz2aRXAoqGXVcrcNgnWKav2ROXjSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452940332827-t0it43osl1u6dobit0jp5j3genp9561h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452940332827:android:1628f5da855ee14624ddbe",
+        "android_client_info": {
+          "package_name": "br.com.liebersonsantos.whitelabel.bike.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452940332827-t0it43osl1u6dobit0jp5j3genp9561h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcMgz2aRXAoqGXVcrcNgnWKav2ROXjSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452940332827-t0it43osl1u6dobit0jp5j3genp9561h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452940332827:android:d70a64243c13c57f24ddbe",
+        "android_client_info": {
+          "package_name": "br.com.liebersonsantos.whitelabel.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452940332827-t0it43osl1u6dobit0jp5j3genp9561h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcMgz2aRXAoqGXVcrcNgnWKav2ROXjSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452940332827-t0it43osl1u6dobit0jp5j3genp9561h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452940332827:android:f43038317202826824ddbe",
+        "android_client_info": {
+          "package_name": "br.com.liebersonsantos.whitelabel.car.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452940332827-t0it43osl1u6dobit0jp5j3genp9561h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcMgz2aRXAoqGXVcrcNgnWKav2ROXjSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452940332827-t0it43osl1u6dobit0jp5j3genp9561h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
